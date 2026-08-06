@@ -1,0 +1,29 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>火與冰遊戲正方形圖示</title>
+<desc>512x512 正方形app圖示，左橘右藍背景，中央是火男孩與水女孩的角色頭像</desc>
+<defs>
+<clipPath id="squircle"><rect x="0" y="0" width="512" height="512" rx="96"/></clipPath>
+</defs>
+<g clip-path="url(#squircle)">
+<rect x="0" y="0" width="256" height="512" fill="#2a0f05"/>
+<rect x="256" y="0" width="256" height="512" fill="#03101f"/>
+<circle cx="140" cy="330" r="170" fill="#ff6b2b" fill-opacity="0.18"/>
+<circle cx="372" cy="330" r="170" fill="#2196f3" fill-opacity="0.18"/>
+
+<ellipse cx="180" cy="350" rx="95" ry="140" fill="#ff6b35"/>
+<ellipse cx="180" cy="400" rx="90" ry="90" fill="#aa2200"/>
+<path d="M150 220 Q165 150 180 185 Q195 150 210 220 Q195 205 180 235 Q165 205 150 220 Z" fill="#ff9944"/>
+<path d="M164 216 Q172 175 180 195 Q188 175 196 216 Q188 208 180 226 Q172 208 164 216 Z" fill="#ffee00"/>
+<ellipse cx="158" cy="300" rx="20" ry="24" fill="#ffcc00"/>
+<ellipse cx="212" cy="300" rx="20" ry="24" fill="#ffcc00"/>
+
+<ellipse cx="332" cy="350" rx="95" ry="140" fill="#4fc3f7"/>
+<ellipse cx="332" cy="400" rx="90" ry="90" fill="#005588"/>
+<path d="M300 225 Q270 260 285 310" fill="none" stroke="#aaeeff" stroke-width="10" stroke-linecap="round"/>
+<path d="M364 225 Q394 260 379 310" fill="none" stroke="#aaeeff" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="310" cy="300" rx="21" ry="25" fill="#ffffff"/>
+<ellipse cx="354" cy="300" rx="21" ry="25" fill="#ffffff"/>
+<ellipse cx="316" cy="304" rx="9" ry="11" fill="#003366"/>
+<ellipse cx="360" cy="304" rx="9" ry="11" fill="#003366"/>
+</g>
+</svg>

@@ -1,0 +1,38 @@
+<svg width="680" height="460" viewBox="0 0 680 460" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>火與冰遊戲封面</title>
+<desc>火男孩與水女孩雙人合作平台遊戲的封面插畫</desc>
+<rect x="0" y="0" width="340" height="460" fill="#1f0a03"/>
+<rect x="340" y="0" width="340" height="460" fill="#03101f"/>
+<circle cx="150" cy="300" r="170" fill="#ff6b2b" fill-opacity="0.14"/>
+<circle cx="530" cy="300" r="170" fill="#2196f3" fill-opacity="0.14"/>
+
+<polygon points="70,50 84,62 84,78 70,90 56,78 56,62" fill="#ff4444"/>
+<polygon points="70,50 84,62 70,66 56,62" fill="#ffffff" fill-opacity="0.3"/>
+<polygon points="610,50 624,62 624,78 610,90 596,78 596,62" fill="#44aaff"/>
+<polygon points="610,50 624,62 610,66 596,62" fill="#ffffff" fill-opacity="0.3"/>
+
+<rect x="0" y="410" width="680" height="50" fill="#333333"/>
+<rect x="0" y="410" width="680" height="6" fill="#3d6a2e"/>
+
+<ellipse cx="180" cy="368" rx="56" ry="80" fill="#aa2200"/>
+<ellipse cx="180" cy="300" rx="52" ry="78" fill="#ff6b35"/>
+<path d="M156 224 Q168 190 180 208 Q192 190 204 224 Q192 214 180 232 Q168 214 156 224 Z" fill="#ff9944"/>
+<path d="M166 222 Q173 200 180 214 Q187 200 194 222 Q187 216 180 228 Q173 216 166 222 Z" fill="#ffee00"/>
+<ellipse cx="160" cy="280" rx="15" ry="17" fill="#ffcc00"/>
+<ellipse cx="203" cy="280" rx="15" ry="17" fill="#ffcc00"/>
+
+<ellipse cx="500" cy="368" rx="56" ry="80" fill="#005588"/>
+<ellipse cx="500" cy="300" rx="52" ry="80" fill="#4fc3f7"/>
+<path d="M470 226 Q450 250 460 285" fill="none" stroke="#aaeeff" stroke-width="6" stroke-linecap="round"/>
+<path d="M530 226 Q550 250 540 285" fill="none" stroke="#aaeeff" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="480" cy="280" rx="16" ry="18" fill="#ffffff"/>
+<ellipse cx="523" cy="280" rx="16" ry="18" fill="#ffffff"/>
+<ellipse cx="484" cy="282" rx="7" ry="9" fill="#003366"/>
+<ellipse cx="519" cy="282" rx="7" ry="9" fill="#003366"/>
+
+<text x="250" y="102" font-size="66" font-weight="500" fill="#ff6b2b" text-anchor="middle" font-family="Georgia, serif">火</text>
+<text x="340" y="96" font-size="46" font-weight="400" fill="#999999" text-anchor="middle" font-family="Georgia, serif">&amp;</text>
+<text x="430" y="102" font-size="66" font-weight="500" fill="#40b8ff" text-anchor="middle" font-family="Georgia, serif">冰</text>
+<text x="340" y="136" font-size="17" fill="#dddddd" text-anchor="middle" style="letter-spacing:4px" font-family="monospace">FIRE &amp; WATER</text>
+<text x="340" y="162" font-size="13" fill="#999999" text-anchor="middle" font-family="monospace">雙人合作解謎平台遊戲</text>
+</svg>
